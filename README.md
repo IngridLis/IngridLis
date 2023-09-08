@@ -1,4 +1,4 @@
-## Olá, me chamo Ingrid Lis! Bem- vindos ao meu Git!
+## Hi, my name's Lis! Welcome here on my git!
 
  [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
