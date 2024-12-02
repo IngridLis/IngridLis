@@ -5,8 +5,7 @@
 <br>
 
 ```C#
-public class JoaoVictor
-{
+public class Ingrid Lis
     public string Name { get; } = "Ingrid Lis";
     public string Acknowledgements { get; } = "Back-end";
     public string PrimarySkillset { get; } = "ALGUMAS HABILIDADES";
