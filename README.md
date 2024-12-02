@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ingrid+Lis;I%27m+23+years+old;I+from+Brazil,+SP;I+study+Systems+Analysis+and+Development+at+Est%C3%A1cio;I+am+a+Internship+in+Technical+Support+in+Technoserv;Be+Welcome%20%F0%9F%91%8B"/>
-<img width=80% src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=A+passionate+backend+developer+for+.NET">
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ingrid+Lis;I%27m+22+years+old;I+from+Brazil,+SP;I+study+Systems+Analysis+and+Development+at+Est%C3%A1cio;I+am+a+Internship+in+Technical+Support+in+Technoserv;Be+Welcome%20%F0%9F%91%8B"/>
+<img width=80% src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=A+passionate+backend+developer+for+full stack">
 <img align="right" width="370" src="https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d" />
 <br>
 
@@ -19,7 +19,7 @@ public class Ingrid Lis
   <kbd align="center"> 
     <kbd>Número de Visitas</kbd>
     <br/><br/>
-    
+    <img src="https://profile-counter.glitch.me/quiziri/count.svg"></p>
   </kbd>
 </div>
 <div align="center">
@@ -61,7 +61,7 @@ public class Ingrid Lis
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/quiziri">
+  <a href="https://github.com/IngridLis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quiziri&show_icons=true&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&bg_color=000000&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiziri&hide=html&layout=compact&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&bg_color=000000&hide_border=true"/> 
 </div>
