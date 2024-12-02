@@ -19,7 +19,7 @@ public class Ingrid Lis
   <kbd align="center"> 
     <kbd>Número de Visitas</kbd>
     <br/><br/>
-    <img src="https://profile-counter.glitch.me/quiziri/count.svg"></p>
+    
   </kbd>
 </div>
 <div align="center">
